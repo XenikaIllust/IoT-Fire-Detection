@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nhant/Documents/Developer/Unity/firefighterAR/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="/Users/nhant/Documents/Developer/Unity/firefighterAR/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_da5d8370d0130603d13e736bd0e4df7f6417359c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nhant/Documents/Developer/Unity/firefighterAR/Temp/gradleOut/libs/moveriounitypluginlib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="96f3f47192a13d95b31f2b283d1fced67d6250a9">
+        <dex dex="/Users/nhant/Documents/Developer/Unity/firefighterAR/Temp/gradleOut/build/intermediates/pre-dexed/release/moveriounitypluginlib_4fb02f678d1b2e249cec73e847f130df2f2e9ea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nhant/Documents/Developer/Unity/firefighterAR/Temp/gradleOut/libs/BT300Ctrl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f7c5f709f149be134c385c3e0fa654604dc7e8b4">
+        <dex dex="/Users/nhant/Documents/Developer/Unity/firefighterAR/Temp/gradleOut/build/intermediates/pre-dexed/release/BT300Ctrl_fa1f10e1ce9f77237769781b611a6898b10e38ce.jar" />
+    </item>
+
+</items>
